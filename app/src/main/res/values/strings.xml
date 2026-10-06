@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hamro Sapana</string>
+    <string name="tagline">Realizing Nepal\'s Career Dreams — Government, Banking &amp; Academic Excellence</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_courses">Courses</string>
+    <string name="tab_exams">Pariksha</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_ask_guru">Sapana AI</string>
+</resources>

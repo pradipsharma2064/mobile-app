@@ -1,0 +1,6 @@
+{
+  "name": "Hamro Sapana",
+  "description": "Hamro Sapana - Nepal's premier professional exam preparation platform for Loksewa, Banking, TSC, Medical, Engineering, Live Classes, and AI Doubt Solving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
